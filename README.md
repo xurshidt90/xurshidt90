@@ -4,7 +4,6 @@
     ![markdown logo](https://user-images.githubusercontent.com/20904562/175354261-965e24c0-d1c6-41d0-a623-9d515bd143f2.png)
 </div>
 
-![markdown logo](https://user-images.githubusercontent.com/20904562/175354261-965e24c0-d1c6-41d0-a623-9d515bd143f2.png)
 
 My name is Xurshid and I am a software engineer. I am from Uzbekistan, I live in Tashkent.
 
