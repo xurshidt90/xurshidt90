@@ -32,7 +32,6 @@ My name is Xurshid and I am a software engineer. I am from Uzbekistan, I live in
 </br>
 <p align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=xurshidt90&show_icons=true&theme=calm" width="50%"/>
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xurshidt90&hide=html,css&layout=compact&theme=calm" width="42%"/>
 </p>
 
 
