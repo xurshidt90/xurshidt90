@@ -1,6 +1,4 @@
-# 👋 Hi 
-
-![markdown logo](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# 👋 Hi there ![markdown logo](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 My name is Xurshid and I am a software engineer. I am from Uzbekistan, I live in Tashkent.
 ---
