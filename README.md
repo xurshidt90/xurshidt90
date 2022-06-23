@@ -7,7 +7,7 @@
 </h3>
 
 My name is Xurshid and I am a software engineer. I am from Uzbekistan, I live in Tashkent.
----
+
 <hr>
 
 ## 🔧 Technologies & Tools
