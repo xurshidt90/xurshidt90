@@ -1,3 +1,5 @@
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></h2> 
+
 # 👋 Hi there ![markdown logo](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 My name is Xurshid and I am a software engineer. I am from Uzbekistan, I live in Tashkent.
