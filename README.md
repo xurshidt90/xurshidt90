@@ -25,7 +25,7 @@ My name is Xurshid and I am a software engineer. I am from Uzbekistan, I live in
 - I’m Android developer
 - Ask me about Android development, Kotlin development development
 - How to reach me: [Telegram](https://t.me/xurshidt90) or on [LinkedIn](https://www.linkedin.com/in/xurshid-tursunov-103333131/)
-- My skils: Android (from 7 years)
+- My skils: Android (from 4 years)
 
 
 </br>
